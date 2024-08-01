@@ -9,8 +9,9 @@
 }
 
 .serif {
-  font-family: georgia,
-               serif;
+  /* font-family: georgia,
+               serif; */
+    font-family: 'Times New Roman', serif;
 }
 
 .system-sans-serif {
